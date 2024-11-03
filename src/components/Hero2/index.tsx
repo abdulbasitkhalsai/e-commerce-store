@@ -20,7 +20,7 @@ const Hero2 = () => {
                     <span className='font-light text-[29px] leading-10 '>Apple</span>
                     <span className='font-light text-[29px] leading-10 '>Airpods</span>
                     <span className='text-[29px] leading-10 font-medium'>Max</span>
-                    <span className='font-medium text-[#909090] text-sm leading-6'>Computational audio, Listen, it's powerful</span>
+                    <span className='font-medium text-[#909090] text-sm leading-6'>Computational audio, Listen, its powerful</span>
                 </div>
             </div>
             <div  className='flex w-1/2 pr-[48px] bg-[#353535] pl-[156px] relative items-center'>
