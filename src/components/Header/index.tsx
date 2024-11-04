@@ -26,8 +26,8 @@ const Header = () => {
 
 
       <div className='flex gap-6 justify-between'>
-        <span className="hover:scale-110 hover:ring-2 hover:ring-amber-400 rounded-full transition-transform duration-300 ease-in-out hover:p-2"><Image src={"/images/favorites.png"} alt="Favorites" width={32} height={32} ></Image></span>
-        <span className="hover:scale-110 hover:ring-2 hover:ring-amber-400 rounded-full transition-transform duration-300 ease-in-out hover:p-2"><Image src={"/images/cart.png"} alt="Cart" width={32} height={32}></Image></span>
+        <span className="hover:scale-110 hover:ring-2 hover:ring-amber-400 rounded-full transition-transform duration-300 ease-in-out hover:p-2"><Image src={"/images/Favorites.png"} alt="Favorites" width={32} height={32} ></Image></span>
+        <span className="hover:scale-110 hover:ring-2 hover:ring-amber-400 rounded-full transition-transform duration-300 ease-in-out hover:p-2"><Image src={"/images/Cart.png"} alt="Cart" width={32} height={32}></Image></span>
         <span className="hover:scale-110 hover:ring-2 hover:ring-amber-400 rounded-full transition-transform duration-700 ease-in-out hover:p-2"><Image src={"/images/User.png"} alt="User" width={32} height={32}></Image></span>
       </div>
     </div>

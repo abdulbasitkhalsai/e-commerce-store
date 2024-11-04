@@ -13,7 +13,7 @@ const Card = () => {
     </div>
     <div className='flex justify-between flex-wrap gap-4 '>
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-Iphone 14 pro 1.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] p-2 text-center font-medium text-[16px]'>Apple iPhone 14 Pro Max 128GB Deep Purple</span>
       <span className='font-semibold text-2xl'>$900</span>
@@ -22,7 +22,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-Camera.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Blackmagic Pocket Cinema Camera 6k</span>
       <span className='font-semibold text-2xl'>$2535</span>
@@ -30,7 +30,7 @@ const Card = () => {
     </div>
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-SWatch.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Apple Watch Series 9 GPS 41mm Starlight Aluminium</span>
       <span className='font-semibold text-2xl'>$399</span>
@@ -39,7 +39,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-HeadPhone.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>AirPods Max Silver
       Starlight Aluminium</span>
@@ -49,7 +49,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-Watch.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Samsung Galaxy Watch6 Classic 47mm Black</span>
       <span className='font-semibold text-2xl'>$369</span>
@@ -58,7 +58,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-Phone.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Galaxy Z Fold5 Unlocked | 256GB | Phantom Black</span>
       <span className='font-semibold text-2xl'>$1799</span>
@@ -67,7 +67,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-Ear-Buds.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Galaxy Buds FE
       Graphite</span>
@@ -77,7 +77,7 @@ const Card = () => {
 
 
     <div className='flex flex-col px-6 py-4 items-center border rounded-lg space-y-4 bg-[#F6F6F6]'>
-      <span className='self-end'><Image src={"/images/favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
+      <span className='self-end'><Image src={"/images/Favorites.png"} width={32} alt='Favorites' height={32}></Image></span>
       <span><Image src={"/images/Card-SWatch.png"} alt='iPhone 14 Pro' width={"160"} height={"160"} className=''></Image></span>
       <span className='max-w-[236px] text-center p-2 font-medium text-[16px]'>Apple Watch Series 9 GPS 41mm Starlight Aluminium</span>
       <span className='font-semibold text-2xl'>$399</span>
