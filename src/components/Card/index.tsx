@@ -6,9 +6,9 @@ const Card = () => {
     <div className='bg-white px-40 py-14 font-inter'>
     <div>
       <ul className='flex gap-8 py-8 text-[#8B8B8B] font-medium text-[18px] leading-[32px]'>
-        <li className='hover:underline underline-offset-4 hover:decoration-black hover:text-black'>New Arrival</li>
-        <li className='hover:underline underline-offset-4 hover:decoration-black hover:text-black'>Best Seller</li>
-        <li className='hover:underline underline-offset-4 hover:decoration-black hover:text-black'>Featured Products</li>
+        <li className='hover:underline hover:scale-110 transition-transform ease-in-out  duration-300 underline-offset-8 hover:decoration-amber-400 hover:text-black hover:decoration-2'>New Arrival</li>
+        <li className='hover:underline hover:scale-110 transition-transform ease-in-out  duration-300 underline-offset-8 hover:decoration-amber-400 hover:text-black hover:decoration-2'>Best Seller</li>
+        <li className='hover:underline hover:scale-110 transition-transform ease-in-out  duration-300 underline-offset-8 hover:decoration-amber-400 hover:text-black hover:decoration-2'>Featured Products</li>
       </ul>
     </div>
     <div className='flex justify-between flex-wrap gap-4 '>
