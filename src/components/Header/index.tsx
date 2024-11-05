@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='flex justify-between  text-black text-opacity-30 w-full items-center h-[88px] px-[160px] py-[16]'>
       <div>
-        <Link href={"/"}><Image src={"/images/H-logo.png"} alt="Logo" width={65.4} height={22.87} ></Image></Link>
+        <Link href={"/"}><Image src={"/images/H-Logo.png"} alt="Logo" width={65.4} height={22.87} ></Image></Link>
       </div>
       <div className='flex'><input type="search" className='bg-[#F5F5F5] p-4 rounded-lg w-[372px] h-14' placeholder='Search'/></div>
       <div className='flex justify-between gap-14' >
