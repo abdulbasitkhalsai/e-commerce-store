@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import React from 'react'
 
-interface ICard2Pro {
+interface ICard2Prop {
     title: string;
     description: string;
     image: string;
 }
-const Card2 = (card2Prop : ICard2Pro) => {
+const Card2 = (card2Prop : ICard2Prop) => {
   return (
         <div className='flex flex-col font-inter gap-6 pt-[376px] px-8 pb-14'>
             <span className='h-[360px]'><Image src={card2Prop.image} width={"360"} height={"360"} alt='Popular Products'></Image></span>
