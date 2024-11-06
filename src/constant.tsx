@@ -1,4 +1,9 @@
-export const navItems = [
+interface ILink {
+    title: string,
+    link: string
+}
+
+export const navItems :ILink[] = [
     {
       title: "Home",
       link: "/"
@@ -17,4 +22,19 @@ export const navItems = [
     }
   ];
   
+
+  export const hIcons : ILink[] = [
+    {
+        title: "Favorites",
+        link: "/images/Favorites.png"
+    },
+    {
+        title: "Cart",
+        link: "/images/Cart.png"
+    },
+    {
+        title: "User",
+        link: "/images/User.png"
+    }
+  ]
   
