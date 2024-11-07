@@ -12,7 +12,7 @@ const Hero = () => {
         <span className='text-[#909090] font-medium text-[18px] leading-6'>Created to Change everything for the better. For everyone</span>
         <span><button className='px-14 py-4 border text-[#FFFFFF] border-white rounded-md'>Shop Now</button></span>
       </div>
-      <div><Image src={"/images/Hero.png"} alt='IPhone' width={406} height={632}></Image></div>
+      <div><Image src={"/images/Hero.png"} alt='IPhone' width={406} height={632} priority></Image></div>
     </div>
 
   )

@@ -7,7 +7,7 @@ const DiscProd = () => {
   return (
     <div className=' px-40 py-20 justify-between font-inter'>
       <div className='py-8'>Discounts upto -50%</div>
-      <div className='flex justify-between flex-wrap'>
+      <div className='flex justify-between flex-wrap w-full'>
         {DiscItems.map((item, index) => (
             <div key={index} className='flex flex-col items-center text-center bg-[#F6F6F6] gap-4 px-4 py-6 rounded-[9px]'>
                 <Image className='self-end' src={item.icon} width={32} height={32} alt={item.altIcon}></Image>

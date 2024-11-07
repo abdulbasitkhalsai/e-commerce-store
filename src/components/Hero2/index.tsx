@@ -43,13 +43,8 @@ const Hero2 = () => {
             <span><button className='py-3 px-16 border border-black rounded-md '>Shop Now</button></span>
         </div>
 
-        <Image
-  className="absolute right-0 top-1/2 transform -translate-y-1/2"
-  src={"/images/Hero-Screen.png"}
-  alt="IPhone"
-  height={100}
-  width={250}
-/>
+        <Image className="absolute right-0 top-1/2 transform -translate-y-1/2" src={"/images/Hero-Screen.png"} alt="IPhone"
+              height={502} width={292}/>
         </div>
       
     </div>
