@@ -80,7 +80,7 @@ export const DiscItems : IProdCard[] = [
     {
         icon: "/images/Favorites.png",
         altIcon: "Favorites",
-        image: "/images/DiscProd-Iphone14.png",
+        image: "/images/DiscProd-IPhone14.png",
         altImage: "iPhone 14 Pro",
         description: "Apple iPhone 14 Pro 1TB Gold (MQ2V3)",
         price: 1499,

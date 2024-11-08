@@ -11,7 +11,7 @@ const socialLinks  = [
   },
   {
     altIcon: "Tiktok",
-    srcIcon: "/images/TikTok.png",
+    srcIcon: "/images/Tiktok.png",
     hrefIcon: "https://www.tiktok.com/"
   },
   {
@@ -85,7 +85,7 @@ const Footer = () => {
     <div className='flex flex-col bg-black px-40 py-[104px] font-inter text-white'>
       <div className='flex justify-between'>
         <div className='w-96 h-[48px] gap-6 flex flex-col'>
-          <Link href={"/"}><Image src={"/images/F-logo.png"} alt='Logo' width={65.4} height={22.87}></Image></Link>
+          <Link href={"/"}><Image src={"/images/F-Logo.png"} alt='Logo' width={65.4} height={22.87}></Image></Link>
           <span className=' text-wrap'>We are a residential interior design firm located in Portland. Our boutique-studio offers more than</span>
         </div>
         <div className='flex justify-between w-fit'>
